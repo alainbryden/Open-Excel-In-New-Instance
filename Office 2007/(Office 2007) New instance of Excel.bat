@@ -1,0 +1,1 @@
+start "" "C:\Program Files\Microsoft Office\Office12\EXCEL.EXE" %1
